@@ -2,6 +2,12 @@
 In this repository, I will employ some famous algorithms to solve problems. 
 
 CONTENT:
-- Palindromic Subsequence-Manacher Method
-- Eight Queens Puzzle-Backtracking and Recursion
+1. Eight Queens Puzzle-Backtracking and Recursion
+    -  Manacher Method
+2. Eight Queens Puzzle-Backtracking and Recursion
+    - Backtracking
+    - Recursion
+3. Greastest Common Divisor
+    - Recursion
+    - Loop
 
