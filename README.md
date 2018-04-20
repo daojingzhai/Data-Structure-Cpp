@@ -1,5 +1,5 @@
 # Algorithm-Everyday-Cpp
-In this repository, I will use C++ to implement some famous algorithms. 
+In this repository, I will employ some famous algorithms to solve problems. 
 
 CONTENT:
 - Palindromic Subsequence-Manacher Method
