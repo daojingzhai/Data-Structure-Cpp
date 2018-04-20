@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  HW_4_A
+//  Palindromic-Subsequence-Manacher
 //
 //  Created by Daojing Zhai on 2018/4/20.
 //  Copyright © 2018 Daojing Zhai. All rights reserved.
@@ -12,7 +12,7 @@
 using namespace std;
 const int N=1000;
 string st,st_derived;
-int R[N];              //radius of the palindromic substring
+int R[N];              //radius of the palindromic substring when st_derived[N] is center.
 
 void input(string st){
     st_derived = "$#"; //eg: $%A%B%C%D%
