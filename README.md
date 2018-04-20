@@ -1,2 +1,6 @@
 # Palindromic-Subsequence-Manacher-Cpp
-Using Manacher's algorithm to find longest Palindromic Subsequence.
+In this repository, I will use C++ to implement some famous algorithms. 
+
+CONTENT:
+- Palindromic-Subsequence-Manacher
+
