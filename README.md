@@ -10,4 +10,7 @@ CONTENT:
 3. Greastest Common Divisor
     - Recursion
     - Loop
+4. Longest Common Subarray and Substring
+    - Dynamic Programming
+    
 
