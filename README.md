@@ -12,5 +12,7 @@ CONTENT:
     - Loop
 4. Longest Common Subarray and Substring
     - Dynamic Programming
+5. Knapsack problem
+    - Dynamic Programming
     
 
