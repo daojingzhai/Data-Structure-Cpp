@@ -14,5 +14,6 @@ CONTENT:
     - Dynamic Programming
 5. Knapsack problem
     - Dynamic Programming
-    
+6. Pattern matching
+    - KMP algorithm
 
