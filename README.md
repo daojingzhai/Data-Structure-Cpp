@@ -16,4 +16,6 @@ CONTENT:
     - Dynamic Programming
 6. Pattern matching
     - KMP algorithm
-
+7. Linked data structure
+    - Doubly linked list
+    - Circular linked list
