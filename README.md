@@ -2,6 +2,7 @@
 In this repository, I will employ some famous algorithms to solve problems. 
 
 CONTENT:
+
 1. Eight Queens Puzzle-Backtracking and Recursion
     -  Manacher Method
 2. Eight Queens Puzzle-Backtracking and Recursion
