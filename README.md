@@ -21,3 +21,6 @@ CONTENT:
     - Doubly linked list
     - Circular linked list
     - Generalized List
+8. Stack Related
+    - Implement using Array
+    - Implement using Linked list

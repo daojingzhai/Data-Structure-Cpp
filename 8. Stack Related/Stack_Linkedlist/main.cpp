@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Stack_NodeList
+//  Stack_Linkedlist
 //
 //  Created by Daojing Zhai on 2018/5/6.
 //  Copyright © 2018 Daojing Zhai. All rights reserved.
