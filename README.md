@@ -24,3 +24,5 @@ CONTENT:
 8. Stack Related
     - Implement using Array
     - Implement using Linked list
+9. Tower of Hanoi
+    - Recursion
