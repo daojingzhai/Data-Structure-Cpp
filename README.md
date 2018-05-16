@@ -26,5 +26,8 @@ CONTENT:
     - Implement using Linked list
 9. Tower of Hanoi
     - Recursion
-10. Tree
-
+10. Tree and forest
+    - Bunary Tree
+    - Minmum Heap
+    - Huffman Tree
+    
