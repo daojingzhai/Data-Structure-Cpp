@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  HuffmanTree
+//  HuffmanNode
 //
 //  Created by Daojing Zhai on 2018/5/16.
 //  Copyright © 2018 Daojing Zhai. All rights reserved.
