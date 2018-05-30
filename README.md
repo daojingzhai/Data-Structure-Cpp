@@ -30,4 +30,10 @@ CONTENT:
     - Bunary Tree
     - Minmum Heap
     - Huffman Tree
+11. Hash Table
+12. Search
+    - Binary Search
+    - Binary Search Tree
+    - AVL Tree
+    
     
