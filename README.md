@@ -35,5 +35,7 @@ CONTENT:
     - Binary Search
     - Binary Search Tree
     - AVL Tree
+13. Graph
+14. Sorting
     
     
