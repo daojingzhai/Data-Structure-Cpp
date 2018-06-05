@@ -46,5 +46,6 @@ CONTENT:
         - Kruskal
     - Activity Network
 14. Sorting
+15. Dicitionary
     
     
