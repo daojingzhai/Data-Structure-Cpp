@@ -46,6 +46,13 @@ CONTENT:
         - Kruskal
     - Activity Network
 14. Sorting
+    - Insert sort
+    - Shell sort
+    - Select sort
+    - Bubble sort
+    - Quick sort
+    - Tournament sort
+    - Heap sort
 15. Dicitionary
     
     
