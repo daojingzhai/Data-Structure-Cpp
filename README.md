@@ -53,6 +53,7 @@ CONTENT:
     - Quick sort
     - Tournament sort
     - Heap sort
+    - Merge sort
 15. Dicitionary
     
     
