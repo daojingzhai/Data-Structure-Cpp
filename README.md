@@ -1,14 +1,15 @@
 # Algorithm-Everyday-Cpp
-In this repository, I will employ some famous algorithms to solve problems. 
 
-CONTENT:
+### _Employ C++, I am trying to implement appropriate data structure and classical algorithms to solve problems_
 
-1. Eight Queens Puzzle-Backtracking and Recursion
+## CONTENT:
+
+1. Palindromic Subsequence
     -  Manacher Method
 2. Eight Queens Puzzle-Backtracking and Recursion
     - Backtracking
     - Recursion
-3. Greastest Common Divisor
+3. Greatest Common Divisor
     - Recursion
     - Loop
 4. Longest Common Subarray and Substring
@@ -27,8 +28,8 @@ CONTENT:
 9. Tower of Hanoi
     - Recursion
 10. Tree and forest
-    - Bunary Tree
-    - Minmum Heap
+    - Binary Tree
+    - Minimum Heap
     - Huffman Tree
 11. Hash Table
 12. Search
@@ -37,7 +38,7 @@ CONTENT:
     - AVL Tree
 13. Graph
     - Shortest Path
-        - Ford 
+        - Ford
         - Floyd
         - Dijkstra
         - Bellman
@@ -55,5 +56,3 @@ CONTENT:
     - Heap sort
     - Merge sort
 15. Dicitionary
-    
-    
