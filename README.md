@@ -1,6 +1,6 @@
-# Algorithm-Everyday-Cpp
+# Algorithm-Cpp
 
-### _Employ C++, I am trying to implement appropriate data structure and classical algorithms to solve problems_
+### _Use classical algorithms and data structure to solve problems_
 
 ## CONTENT:
 
